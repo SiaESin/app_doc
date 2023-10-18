@@ -10,3 +10,7 @@ v1.0
     Removed
        - Some packages/libraries from acknowledgements I no longer use
 
+v1.1
+    Added or Changed
+       - updated readme.md
+       - added to changelog 
