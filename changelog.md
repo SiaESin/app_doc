@@ -14,3 +14,7 @@ v1.1
     Added or Changed
        - updated readme.md
        - added to changelog 
+
+v1.2
+    added or changed
+        - readme layout correction
